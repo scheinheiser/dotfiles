@@ -6,10 +6,9 @@ vim.o.guicursor = 'a:block-blinkwait700-blinkon250-blinkoff400,r-cr-o:hor20' -- 
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
 
--- tabs
-vim.opt.tabstop = 2
-vim.opt.softtabstop = 2
-vim.opt.shiftwidth = 2
+vim.opt.tabstop = 4
+vim.opt.softtabstop = 4
+vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
 vim.opt.hlsearch = false

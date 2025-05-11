@@ -1,11 +1,5 @@
 return {
-  {
-    'rose-pine/neovim',
-    as = 'rose-pine',
-    config = function()
-      vim.cmd('colorscheme rose-pine')
-    end
-  },
+  'rose-pine/neovim',
   '0xstepit/flow.nvim',
   'rose-pine/neovim',
   'rebelot/kanagawa.nvim',
